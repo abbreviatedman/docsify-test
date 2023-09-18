@@ -7,7 +7,7 @@
 <details>
 <summary>Hint 1</summary>
 
-Use `document.createElement()`.
+Try using `document.createElement()`.
 
 </details>
 
