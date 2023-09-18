@@ -6,7 +6,9 @@
 
 <details>
 <summary>Hint 1</summary>
+
 Use `document.createElement()`.
+
 </details>
 
 <details>
