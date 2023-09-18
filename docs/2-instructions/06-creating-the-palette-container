@@ -1,5 +1,6 @@
 ### **Create the Palette Container in HTML**
 
+
 **Issue**: To display the color palette, you need a specific area on your webpage.
 
 **Goal**: In your HTML file, insert a `div` container element dedicated to your color palette. Make sure to apply our provided class name to get the styling.
