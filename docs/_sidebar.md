@@ -9,5 +9,6 @@
   - [03 Getting Set Up](2-instructions/03-getting-set-up.md)
   - [04 Checking Out The Html](2-instructions/04-checking-out-the-html.md)
   - [05 Incorporating Javascript](2-instructions/05-incorporating-javascript.md)
+  - [06 Creating The Palette Container](2-instructions/06-creating-the-palette-container.md)
 
 - [README](README.md)
