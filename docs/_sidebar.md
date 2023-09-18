@@ -3,9 +3,11 @@
   - [Getting Started](1-Introduction/getting-started.md)
 
 - 2 Instructions
-  - [01 How To Start](2-instructions/01-how-To-start.md)
-  - [02 Getting Started](2-instructions/02-getting-started.md)
-  - [03 Cool Stuff](2-instructions/03-Cool-stuff.md)
-  - [11 Lots Of Stuff](2-instructions/11-lots-of-stuff.md)
+  - [00 All Of It](2-instructions/00-all-of-it.md)
+  - [01 Introduction](2-instructions/01-introduction.md)
+  - [02 Understanding The App](2-instructions/02-understanding-the-app.md)
+  - [03 Getting Set Up](2-instructions/03-getting-set-up.md)
+  - [04 Checking Out The Html](2-instructions/04-checking-out-the-html.md)
+  - [05 Incorporating Javascript](2-instructions/05-incorporating-javascript.md)
 
 - [README](README.md)
