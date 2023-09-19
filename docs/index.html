@@ -9,9 +9,16 @@
       name="viewport"
       content="width=device-width, initial-scale=1.0, minimum-scale=1.0"
     />
+    <!-- Theme: Simple (light + dark) -->
     <link
       rel="stylesheet"
-      href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css"
+      media="(prefers-color-scheme: light)"
+      href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css"
+    />
+    <link
+      rel="stylesheet"
+      media="(prefers-color-scheme: dark)"
+      href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.css"
     />
   </head>
   <body>
@@ -21,17 +28,21 @@
         name: "",
         repo: "",
         loadSidebar: true,
-	name: 'Pixel Art',
-	nativeEmoji: true,
-	repo: 'abbreviatedman/docsify-test',
-	homepage: '/0-readme/readme.md',
-	pagination: {
-	  crossChapter: true,
-	},
+        name: "Pixel Art",
+        nativeEmoji: true,
+        repo: "abbreviatedman/docsify-test",
+        homepage: "/0-readme/readme.md",
+        pagination: {
+          crossChapter: true,
+        },
       };
     </script>
     <!-- Docsify v4 -->
-    <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+    <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
+    <!-- docsify-themeable -->
+    <script src="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/js/docsify-themeable.min.js"></script>
+    <!-- docsify-pagination -->
     <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
+    <!-- Theme: Simple (light + dark) -->
   </body>
 </html>
