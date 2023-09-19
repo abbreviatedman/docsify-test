@@ -1,3 +1,3 @@
 # Pixel Art Maker
 
-[Directions here](https://abbreviatedman.github.io/docsify-test).
+[Directions here](https://abbreviatedman.github.io/example-docsify-project/).
