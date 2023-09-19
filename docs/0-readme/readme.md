@@ -4,4 +4,4 @@ To fork and clone down [the original repo](https://github.com/abbreviatedman/exa
 
 [Something here about format?]
 
-[Click here to start!](https://abbreviatedman.github.io/example-docsify-project/#/1-preparation/01-intro-and-learning-objectives)
+## [Click Here To Start Prepping For The Assignment!](/1-intro-and-learning-objectives/intro-and-learning-objectives.md)
