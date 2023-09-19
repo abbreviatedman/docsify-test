@@ -1,8 +1,10 @@
 ### **Appending Each Color Div**
 
-**Issue**: Divs currently reside only in JavaScript memory.
+**Issue**: Generated divs are in limbo, only present in JavaScript memory.
 
 **Goal**: After forging each color div, affix it to the palette container.
+
+**Confirming You Succeeded**: View your webpage. Spot the color divs in the palette container? Perfect!
 
 <details>
 <summary>Hint 1</summary>
@@ -22,5 +24,3 @@ for (let counter = 0; counter < colorList.length; counter++) {
 ```
 
 </details>
-
-**Confirming You Succeeded**: Peek at your browser. Witness the color divs inside the palette container? Great!

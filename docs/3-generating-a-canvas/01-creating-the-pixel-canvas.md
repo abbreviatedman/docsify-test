@@ -1,8 +1,10 @@
-### **Create the Pixel Canvas**
+### **Generate the Pixel Canvas**
 
-**Issue**: We need pixels to paint on!
+**Issue**: A canvas to paint on is essential.
 
-**Goal**: In your JavaScript file, generate a grid of divs in your canvas container.
+**Goal**: Use JavaScript to populate your canvas container with a grid of div elements.
+
+**Confirming You Succeeded**: Your canvas should be populated with a grid of smaller divs.
 
 <details>
 <summary>Hint 1</summary>
@@ -24,5 +26,3 @@ for (let row = 0; row < 10; row++) {
 ```
 
 </details>
-
-**Confirming You Succeeded**: Your canvas should be populated with a grid of smaller divs.
