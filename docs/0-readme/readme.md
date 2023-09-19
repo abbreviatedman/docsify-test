@@ -4,4 +4,4 @@ To fork and clone down [the original repo](https://github.com/abbreviatedman/exa
 
 [Something here about format?]
 
-## [Click Here To Start Prepping For The Assignment!](/1-intro-and-learning-objectives/intro-and-learning-objectives.md)
+## [Click Here To Get Started With The Project!](/1-intro-and-learning-objectives/intro-and-learning-objectives.md)
